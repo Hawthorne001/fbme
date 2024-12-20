@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DeviceType SYSTEM "https://www.holobloc.com/xml/LibraryElement.dtd">
+
+<DeviceType Name="TestDevice">
+  <VarDeclaration Name="MGR_ID" Type="STRING" />
+</DeviceType>
+
